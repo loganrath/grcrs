@@ -119,7 +119,7 @@
 	}
 
 	header p {
-		color: #999999;
+		color: #666666;
 		font-size: 1.25em;
 		position: relative;
 		margin-top: -1.25em;
@@ -826,7 +826,7 @@
 		}
 
 			#footer .icons a {
-				color: #999999;
+				color: #666666;
 			}
 
 				#footer .icons a:hover {
@@ -834,7 +834,7 @@
 				}
 
 		#footer .copyright {
-			color: #999999;
+			color: #666666;
 			margin-top: 1.5em;
 			text-align: center;
 			font-size: 0.9em;
