@@ -533,6 +533,14 @@
 	.box.highlight {
 		text-align: center;
 	}
+	.box.highlight p {
+		text-align: left;
+		margin-bottom: 0;
+	}
+	.box.highlight ul {
+		margin-bottom: 0;
+		margin-left: 2em;
+	}
 
 	.box.post {
 		position: relative;
