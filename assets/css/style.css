@@ -535,11 +535,11 @@
 	}
 	.box.highlight p {
 		text-align: left;
-		margin-bottom: 0;
+		margin-top: 1em;
 	}
 	.box.highlight ul {
 		margin-bottom: 0;
-		margin-left: 1em;
+		margin-left: 0;
 	}
 
 	.box.post {
