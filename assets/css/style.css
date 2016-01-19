@@ -330,7 +330,7 @@
 	ul.default {
 		list-style: disc;
 		padding-left: 1em;
-		text-align: center;
+		text-align: left;
 	}
 
 		ul.default li {
