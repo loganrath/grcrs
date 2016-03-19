@@ -37,7 +37,6 @@
 							{% assign current = page.url | downcase | split: '/' %}
 							<li {% if current[1] == 'index.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
 							<li {% if current[1] == 'services.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/services.html">Services</a></li>
-							<li {% if current[1] == 'contact.html' %}class="current"{% endif %}><a href="{{ site.baseurl }}/contact.html">Contact</a></li>
 						</ul>
 					</nav>
 
