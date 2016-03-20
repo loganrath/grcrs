@@ -120,7 +120,7 @@
 
 	header p {
 		color: #666666;
-		font-size: 2.75em;
+		font-size: 1.5em;
 		position: relative;
 		margin-top: -1.25em;
 		margin-bottom: 2.25em;
@@ -594,7 +594,7 @@
 		}
 
 			#header h1 a {
-				font-size: 1.5em;
+				font-size: 2.75em;
 				letter-spacing: -0.025em;
 				border: 0;
 			}
